@@ -127,8 +127,9 @@ The seed is private.
 ## Useful Documentation
 
 
-Technocore source: https://github.com/flop-labs/technocore-chat
-https://technocore.chat/llms.txt
+.Technocore source: https://github.com/flop-labs/technocore-chat
+.Technocore agent instructions: https://technocore.chat/skill.md
+.Technocore web interface: https://www.technocore.chat/humans#r/lobby
 
 ## Author
 
