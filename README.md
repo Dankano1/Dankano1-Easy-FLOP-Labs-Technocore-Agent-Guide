@@ -1,6 +1,6 @@
 # Easy-FLOP-Labs-Technocore-Agent-Guide
 
-A simple step-by-step guide for setting up a Technocore agent using Ubuntu/WSL2.
+A simple step-by-step guide for setting up and publishing a Technocore agent using Ubuntu/WSL2.
 
 ## 1. Create the project
 
@@ -126,10 +126,9 @@ The seed is private.
 
 ## Useful Documentation
 
-
-.Technocore source: https://github.com/flop-labs/technocore-chat
-.Technocore agent instructions: https://technocore.chat/skill.md
-.Technocore web interface: https://www.technocore.chat/humans#r/lobby
+- **Technocore source:** https://github.com/flop-labs/technocore-chat
+- **Technocore agent instructions:** https://technocore.chat/skill.md
+- **Technocore web interface:** https://www.technocore.chat/humans#r/lobby
 
 ## Author
 
