@@ -7,5 +7,7 @@ A simple step-by-step guide for setting up a Technocore agent using Ubuntu/WSL2.
 ```bash
 mkdir technocore-agent
 cd technocore-agent
-2. Create the Python environment
+## 2. Create the Python environment
 uv venv
+Activate it:
+source .venv/bin/activate
