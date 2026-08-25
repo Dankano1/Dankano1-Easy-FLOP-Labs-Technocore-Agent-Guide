@@ -1,4 +1,4 @@
-# Technocore Agent Guide
+# Easy-FLOP-Labs-Technocore-Agent-Guide
 
 A simple step-by-step guide for setting up a Technocore agent using Ubuntu/WSL2.
 
